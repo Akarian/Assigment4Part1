@@ -1,0 +1,62 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Aurelien\\Desktop\\Cours\\Roskilde courses\\Rowdata\\C#\\RAWDATA_2019_Assignment4TestSuitPartI-master\\Assignment4.Tests\\Assignment4.Tests.csproj",
+    "projectName": "Assignment4.Tests",
+    "projectPath": "C:\\Users\\Aurelien\\Desktop\\Cours\\Roskilde courses\\Rowdata\\C#\\RAWDATA_2019_Assignment4TestSuitPartI-master\\Assignment4.Tests\\Assignment4.Tests.csproj",
+    "outputPath": "C:\\Users\\Aurelien\\Desktop\\Cours\\Roskilde courses\\Rowdata\\C#\\RAWDATA_2019_Assignment4TestSuitPartI-master\\Assignment4.Tests\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "C:\\Users\\Aurelien\\Desktop\\Cours\\Roskilde courses\\Rowdata\\C#\\RAWDATA_2019_Assignment4TestSuitPartI-master\\Assignment4\\Assignment4.csproj": {
+            "projectPath": "C:\\Users\\Aurelien\\Desktop\\Cours\\Roskilde courses\\Rowdata\\C#\\RAWDATA_2019_Assignment4TestSuitPartI-master\\Assignment4\\Assignment4.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.2.0, )"
+        },
+        "coverlet.collector": {
+          "target": "Package",
+          "version": "[1.0.1, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
